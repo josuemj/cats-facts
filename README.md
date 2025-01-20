@@ -1,6 +1,6 @@
 # 🐾 Cat App
 
-A simple React application that fetches random cat facts and images from an API. This project serves as a practice for basic web development skills, including:
+A simple React application that fetches random cat facts and images from an API. 
 
 ## Wide
 ![wide](wide-cat-gif.gif)
